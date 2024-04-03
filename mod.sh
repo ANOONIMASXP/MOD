@@ -111,9 +111,13 @@ tar -xzvf sing-box.tar.gz
 
 #./sing-box-1.8.5-linux-amd64/sing-box rule-set compile --output nocn.srs nocn.json
 
+./sing-box-1.8.5-linux-amd64/sing-box rule-set compile --output nocn.srs nocn.json
+
+./sing-box-1.8.5-linux-amd64/sing-box rule-set compile --output outdns.srs outdns.json
+
 ./sing-box-1.8.5-linux-amd64/sing-box rule-set compile --output ad.srs ad.json
 
-rm -rf sing-box-1.8.5-linux-amd64/ cn.json nocn.json ad.json
+rm -rf sing-box-1.8.5-linux-amd64/ ad.json
 
 
 

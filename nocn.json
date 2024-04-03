@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"rules": [
+		{
+			"domain": [
+				"gooogle.com"
+			],
+			"domain_suffix": [
+				".google.com"
+			]
+		}
+	]
+}
