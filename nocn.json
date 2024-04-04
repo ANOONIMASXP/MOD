@@ -3,7 +3,7 @@
 	"rules": [
 		{
 			"domain": [
-				"gooogle.com"
+				"www.gooogle.com"
 			],
 			"domain_suffix": [
 				".google.com"
