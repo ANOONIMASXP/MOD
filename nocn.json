@@ -3,10 +3,18 @@
 	"rules": [
 		{
 			"domain": [
-				"www.gooogle.com"
+				"www.gooogle.com",
+				"mail.google.com",
+				"googlehosted.l.googleusercontent.com",
+				"dns.google"
 			],
 			"domain_suffix": [
-				".google.com"
+				".google.com",
+				".googleusercontent.com"
+			],
+			"ip_cidr": [
+				"8.8.8.8",
+				"8.8.4.4"
 			]
 		}
 	]
