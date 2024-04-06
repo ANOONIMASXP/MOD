@@ -5,8 +5,13 @@
 			"domain": [
 				"www.gooogle.com",
 				"mail.google.com",
+				"play.google.com",
+				"android.l.google.com",
+				"dns.google",
 				"googlehosted.l.googleusercontent.com",
-				"dns.google"
+				"play-lh.googleusercontent.com",
+				"youtu.be",
+				"api.izzysoft.de"
 			],
 			"domain_suffix": [
 				".google.com",
