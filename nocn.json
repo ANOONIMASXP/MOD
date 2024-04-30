@@ -6,15 +6,23 @@
 				"www.gooogle.com",
 				"mail.google.com",
 				"play.google.com",
+				"imap.gmail.com",
+				"play.googleapis.com",
+				"auroraoss.com",
 				"android.l.google.com",
 				"dns.google",
 				"googlehosted.l.googleusercontent.com",
 				"play-lh.googleusercontent.com",
-				"youtu.be",
-				"api.izzysoft.de"
+				"api.izzysoft.de",
+				"www.njav.com",
+				"supjav.com",
+				"www4.javhdporn.net",
+				"lualus.com",
+				"youtu.be"
 			],
 			"domain_suffix": [
 				".google.com",
+				".gmail.com",
 				".googleusercontent.com"
 			],
 			"ip_cidr": [
