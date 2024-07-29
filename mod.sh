@@ -105,21 +105,23 @@ rm ad_ip_cidr.txt ad_domain*.txt temp*.json
 
 
 
-tar -xzvf sing-box.tar.gz
+# tar -xzvf sing-box.tar.gz
 
 #./sing-box-1.8.5-linux-amd64/sing-box rule-set compile --output cn.srs cn.json
 
 #./sing-box-1.8.5-linux-amd64/sing-box rule-set compile --output nocn.srs nocn.json
 
-./sing-box-1.8.5-linux-amd64/sing-box rule-set compile --output nocn.srs nocn.json
+./bin/sing-box rule-set compile --output nocn.srs ./source/nocn.json
 
-./sing-box-1.8.5-linux-amd64/sing-box rule-set compile --output nsfw.srs nsfw.json
+./bin/sing-box rule-set compile --output nsfw.srs ./source/nsfw.json
 
-./sing-box-1.8.5-linux-amd64/sing-box rule-set compile --output ad.srs ad.json
+./bin/sing-box rule-set compile --output nsdns.srs ./source/nsdns.json
 
-./sing-box-1.8.5-linux-amd64/sing-box rule-set compile --output nsdns.srs nsdns.json
+./bin/sing-box rule-set compile --output ad.srs ad.json
 
-rm -rf sing-box-1.8.5-linux-amd64/ ad.json
+
+
+rm ad.json
 
 
 
