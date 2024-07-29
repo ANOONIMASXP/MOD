@@ -102,7 +102,7 @@ rm ad_ip_cidr.txt ad_domain*.txt temp*.json
 
 
 
-
+chmod +x ./bin/sing-box
 
 
 # tar -xzvf sing-box.tar.gz
