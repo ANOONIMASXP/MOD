@@ -113,9 +113,7 @@ chmod +x ./bin/sing-box
 
 ./bin/sing-box rule-set compile --output nocn.srs ./source/nocn.json
 
-./bin/sing-box rule-set compile --output nsfw.srs ./source/nsfw.json
-
-./bin/sing-box rule-set compile --output nsdns.srs ./source/nsdns.json
+./bin/sing-box rule-set compile --output dns.srs ./source/dns.json
 
 ./bin/sing-box rule-set compile --output ad.srs ad.json
 
