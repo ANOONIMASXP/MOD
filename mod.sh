@@ -1,9 +1,15 @@
 #!/bin/bash
 
-#curl -o cnip1.txt https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt
+curl -o cnip1.txt https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt
+https://raw.githubusercontent.com/misakaio/chnroutes2/refs/heads/master/chnroutes.txt
+https://raw.githubusercontent.com/gaoyifan/china-operator-ip/refs/heads/ip-lists/china.txt
 #curl -o cnip2.txt https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china.txt
 #curl -o cnsite.txt https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
 #curl -o nocnsite.txt https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+
+https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/raw/refs/heads/master/accelerated-domains.china.conf
+curl -o cnsite1.txt https://github.com/v2fly/domain-list-community/raw/refs/heads/release/cn.txt
+curl -o cnsite2 https://github.com/v2fly/domain-list-community/raw/refs/heads/release/tld-cn.txt
 curl -o ad.txt https://raw.githubusercontent.com/Mujinniao/list/main/domain.txt
 
 
@@ -76,7 +82,6 @@ rm ad.txt
 
 
 
-
 #jq --slurpfile domain <(cat nocn_domain.txt | jq -R .) '.rules[0].domain += $domain' mod.json > temp.json
 
 #jq --slurpfile domain_suffix <(cat nocn_domain_suffix.txt | jq -R .) '.rules[0].domain_suffix += $domain_suffix' temp.json > temp1.json
@@ -87,22 +92,46 @@ rm ad.txt
 
 
 
-
-jq --slurpfile domain <(cat ad_domain.txt | jq -R .) '.rules[0].domain += $domain' mod.json > temp.json
+jq --slurpfile domain <(cat ad_domain.txt | jq -R .) '.rules[0].domain += $domain' ./tem/all.json > temp.json
 
 jq --slurpfile domain_suffix <(cat ad_domain_suffix.txt | jq -R .) '.rules[0].domain_suffix += $domain_suffix' temp.json > temp1.json
 
 jq --slurpfile domain_regex <(cat ad_domain_regex.txt | jq -R .) '.rules[0].domain_regex += $domain_regex' temp1.json > temp2.json
 
-jq --slurpfile ip_cidr <(cat ad_ip_cidr.txt | jq -R .) '.rules[0].ip_cidr += $ip_cidr' temp2.json > ad.json
+jq --slurpfile ip_cidr <(cat ad_ip_cidr.txt | jq -R .) '.rules[0].ip_cidr += $ip_cidr' temp2.json > ad_all.json
 
-sed -i 's/\\r//g' ad.json
+
+
+jq --slurpfile domain <(cat ad_domain.txt | jq -R .) '.rules[0].domain += $domain' ./tem/domain.json > temp3.json
+
+jq --slurpfile domain_suffix <(cat ad_domain_suffix.txt | jq -R .) '.rules[0].domain_suffix += $domain_suffix' temp3.json > temp4.json
+
+jq --slurpfile domain_regex <(cat ad_domain_regex.txt | jq -R .) '.rules[0].domain_regex += $domain_regex' temp4.json > ad_domain.json
+
+
+
+jq --slurpfile ip_cidr <(cat ad_ip_cidr.txt | jq -R .) '.rules[0].ip_cidr += $ip_cidr' temp5.json > ad_ip.json
+
+
+
+sed -i 's/\\r//g' ad_all.json
+sed -i 's/\\r//g' ad_domain.json
+sed -i 's/\\r//g' ad_ip.json
+
+
+
+mv -f ad_all.json ./out/ad_all.json
+mv -f ad_domain.json ./out/ad_domain.json
+mv -f ad_ip.json ./out/ad_ip.json
+
+
 
 rm ad_ip_cidr.txt ad_domain*.txt temp*.json
 
 
 
 chmod +x ./bin/sing-box
+
 
 
 # tar -xzvf sing-box.tar.gz
@@ -115,11 +144,15 @@ chmod +x ./bin/sing-box
 
 ./bin/sing-box rule-set compile --output dns.srs ./source/dns.json
 
-./bin/sing-box rule-set compile --output ad.srs ad.json
+./bin/sing-box rule-set compile --output ./out/ad_domain.srs ./out/ad_domain.json
+
+./bin/sing-box rule-set compile --output ./out/ad_ip.srs ./out/ad_ip.json
+
+./bin/sing-box rule-set compile --output ./out/ad_all.srs ./out/ad_all.json
 
 
 
-rm ad.json
+# rm ad.json
 
 
 
