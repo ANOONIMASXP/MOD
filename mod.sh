@@ -1,26 +1,53 @@
 #!/bin/bash
 
 curl -o cnip1.txt https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt
-https://raw.githubusercontent.com/misakaio/chnroutes2/refs/heads/master/chnroutes.txt
-https://raw.githubusercontent.com/gaoyifan/china-operator-ip/refs/heads/ip-lists/china.txt
-#curl -o cnip2.txt https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china.txt
-#curl -o cnsite.txt https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
+curl -o cnip2.txt https://raw.githubusercontent.com/misakaio/chnroutes2/refs/heads/master/chnroutes.txt
+curl -o cnip3.txt https://raw.githubusercontent.com/gaoyifan/china-operator-ip/refs/heads/ip-lists/china.txt
 #curl -o nocnsite.txt https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 
-https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/raw/refs/heads/master/accelerated-domains.china.conf
-curl -o cnsite1.txt https://github.com/v2fly/domain-list-community/raw/refs/heads/release/cn.txt
-curl -o cnsite2 https://github.com/v2fly/domain-list-community/raw/refs/heads/release/tld-cn.txt
+
+curl -o cnsite1.txt https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/release/cn.txt
+curl -o cnsite2.txt https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/refs/heads/master/accelerated-domains.china.conf
+
+
+
 curl -o ad.txt https://raw.githubusercontent.com/Mujinniao/list/main/domain.txt
 
+#处理ip
+#去除#开头行
+sed -i '/^#/d' cnip2.txt
+#合并去重
+cat cnip*.txt | sort -u > cn_ip.txt
+
+rm cnip*.txt
 
 
-#cat cnip*.txt | sort -u > cn_ip_cidr.txt
 
-#rm cnip1.txt cnip2.txt
+#处理site1
+#删除带@ads @!cn的行，去除行尾:@cn字符串
+sed -i -e '/@ads/d' -e '/@!cn/d' -e 's/\:@cn//' cnsite1.txt
+#按全名 后缀 正则提取site1
+grep '^domain' cnsite1.txt > cnsite1_suffix.txt
+grep '^full' cnsite1.txt > cnsite1_domain.txt
+grep '^regexp' cnsite1.txt > cnsite1_regexp.txt
+#处理site1
+sed -i 's/domain://' cnsite1_suffix.txt
+sed -i 's/full://' cnsite1_domain.txt
+sed -i -e 's/regexp://' -e 's/\$//' cnsite1_regexp.txt
 
 
+#处理site2
+sed -i -e 's/^server=\///' -e 's/\/114.114.114.114//' -e '/^#/d' -e '/^$/d' cnsite2.txt
+#合并去重后缀
+cat cnsite2.txt cnsite1_suffix.txt | sort -u > cnsite_suffix.txt
+#合并去重全名
+cat cnsite_suffix.txt cnsite1_domain.txt | sort -u > cn_domain.txt
+#处理符合sing-box的后缀规则
+sed 's/^/\.&/g' cnsite_suffix.txt > cn_domain_suffix.txt
 
-#sed -i -e 's/^server=\///' -e 's/\/114.114.114.114//' -e '/^#/d' -e '/^$/d' cnsite.txt
+rm cnsite1.txt cnsite2.txt cnsite1_domain.txt cnsite1_suffix.txt cnsite_suffix.txt
+
+
 
 #sort -u cnsite.txt > cn_domain.txt
 
