@@ -54,7 +54,7 @@ sed 's/^/\+./g' cnsite_suffix.txt > cn_domain_suffix-m.txt
 #合并
 cat cn_domain_suffix-m.txt  cnsite1_domain-m.txt > cn_domain-m.txt
 
-rm cnsite1.txt cnsite2.txt cnsite1_domain.txt cnsite1_suffix.txt cnsite2_suffix.txt cnsite_suffix.txt cnsite1_regexp.txt cnsite1_domain-m.txt cn_domain_suffix-m.txt
+rm cnsite1.txt cnsite2.txt cnsite1_suffix.txt cnsite2_suffix.txt cnsite_suffix.txt cnsite1_regexp.txt cnsite1_domain-m.txt cn_domain_suffix-m.txt
 
 
 
@@ -177,7 +177,7 @@ chmod +x ./bin/sing-box
 
 
 
-mv ad_domain_suffix-m.txt ./out/s/ad_domain.txt
+mv ad_domain_suffix-m.txt ./out/m/ad_domain.txt
 
 chmod +x ./bin/mihomo
 
