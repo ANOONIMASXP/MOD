@@ -109,7 +109,7 @@ mv cn_ip.txt ./out/m/cn_ip.txt
 chmod +x ./bin/mihomo
 
 ./bin/mihomo convert-ruleset domain text ./out/m/cn_domain.txt ./out/m/cn_domain.mrs
-./bin/mihomo convert-ruleset ipcidr text ./out/m/cn_ip.txt ./out/m/cn_ip.txt.mrs
+./bin/mihomo convert-ruleset ipcidr text ./out/m/cn_ip.txt ./out/m/cn_ip.mrs
 
 
 
