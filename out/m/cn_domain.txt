@@ -10331,6 +10331,7 @@
 +.aeespace.com
 +.aegcar.com
 +.aegis-env.com
++.aegis.qq.com
 +.aegisafe.com
 +.aegisx.net
 +.aegonthtf.com
@@ -24578,10 +24579,6 @@
 +.cn-comfort.com
 +.cn-cr.com
 +.cn-dlmgr-sdc.blurdev.com
-+.cn-east-2.myhuaweicloud.com
-+.cn-east-3.myhuaweicloud.com
-+.cn-east-4.myhuaweicloud.com
-+.cn-east-5.myhuaweicloud.com
 +.cn-ebara.com
 +.cn-elite.com
 +.cn-em.com
@@ -24606,15 +24603,6 @@
 +.cn-msedge.net
 +.cn-mw.com
 +.cn-natural.com
-+.cn-north-1.myhuaweicloud.com
-+.cn-north-11.myhuaweicloud.com
-+.cn-north-2.myhuaweicloud.com
-+.cn-north-3.myhuaweicloud.com
-+.cn-north-4.myhuaweicloud.com
-+.cn-north-5.myhuaweicloud.com
-+.cn-north-6.myhuaweicloud.com
-+.cn-north-9.myhuaweicloud.com
-+.cn-northeast-1.myhuaweicloud.com
 +.cn-only.com
 +.cn-otaproxy-sdc.blurdev.com
 +.cn-psy.com
@@ -24626,10 +24614,6 @@
 +.cn-sdf.com
 +.cn-shine.com
 +.cn-soft.com
-+.cn-south-1.myhuaweicloud.com
-+.cn-south-2.myhuaweicloud.com
-+.cn-south-4.myhuaweicloud.com
-+.cn-southwest-2.myhuaweicloud.com
 +.cn-tf.com
 +.cn-tom.com
 +.cn-truck.com
@@ -26088,7 +26072,6 @@
 +.copl.com.hk
 +.copperalliance.asia
 +.copperhome.net
-+.copy-manga.com
 +.copyedu.com
 +.copyfuture.com
 +.copyswisswatches.com
@@ -37837,6 +37820,7 @@
 +.functionads.com
 +.functionaltextilesshanghai.com
 +.functioncool.com
++.functiongraph.run
 +.fund001.com
 +.fund123.cn
 +.fundebug.com
@@ -68771,9 +68755,7 @@
 +.manfen5.com
 +.manfred-auto.com
 +.manfrottoclub.com
-+.mangacopy.com
 +.mangafuna.xyz
-+.mangafunb.fun
 +.manganesenanhai.com
 +.mangg.com
 +.mangguo.com
@@ -83445,6 +83427,7 @@
 +.roblox.qq.com
 +.robloxdev.cn
 +.roboeyeai.com
++.robomaster.com
 +.roboo.com
 +.robook.com
 +.robopeak.net
