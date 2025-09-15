@@ -3,7 +3,7 @@
 curl -o cnip1.txt https://raw.githubusercontent.com/17mon/china_ip_list/master/china_ip_list.txt
 curl -o cnip2.txt https://raw.githubusercontent.com/misakaio/chnroutes2/refs/heads/master/chnroutes.txt
 curl -o cnip3.txt https://raw.githubusercontent.com/gaoyifan/china-operator-ip/refs/heads/ip-lists/china.txt
-#curl -o nocnsite.txt https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+curl -o gfw.txt https://raw.githubusercontent.com/gfwlist/gfwlist/master/list.txt
 
 
 curl -o cnsite1.txt https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/release/cn.txt
@@ -186,8 +186,14 @@ chmod +x ./bin/mihomo
 
 
 
+grep '^||' gfw.txt > nocn.txt
+sed -i -e '/\*/d' -e 's/||/\+./g' nocn.txt
 
+rm gfw.txt
+mv nocn.txt ./out/m/nocn.txt
+chmod +x ./bin/mihomo
 
+./bin/mihomo convert-ruleset domain text ./out/m/nocn.txt ./out/m/nocn.mrs
 # tar -xzvf sing-box.tar.gz
 
 #./sing-box-1.8.5-linux-amd64/sing-box rule-set compile --output cn.srs cn.json
