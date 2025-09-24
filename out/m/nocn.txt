@@ -1188,6 +1188,7 @@
 +.bvpn.com
 +.bwh1.net
 +.bypasscensorship.org
++.ctinets.com
 +.covenantswatch.org.tw
 +.cpu-monkey.com
 +.coffeemanga.to
@@ -1684,6 +1685,8 @@
 +.futuremessage.org
 +.fw.cm
 +.fxcm-chinese.com
++.garudalinux.org
++.about.gitlab.com
 +.gitlab.net
 +.getsession.org
 +.gdaily.org
@@ -1911,6 +1914,7 @@
 +.hyperrate.com
 +.hypothes.is
 +.ebook.hyread.com.tw
++.interseclab.org
 +.ipify.org
 +.itiger.com
 +.itch.io
@@ -2319,6 +2323,7 @@
 +.myparagliding.com
 +.mypopescu.com
 +.myspacecdn.com
++.nirsoft.net
 +.naver.com
 +.maven.neoforged.net
 +.nftstorage.link
@@ -2412,6 +2417,7 @@
 +.nyaa.si
 +.nybooks.com
 +.nypost.com
++.octocaptcha.com
 +.oojj.de
 +.onevps.com
 +.onedrive.com
@@ -2462,6 +2468,7 @@
 +.oxfordscholarship.com
 +.ow.ly
 +.ozvoice.org
++.api.palworldgame.com
 +.pewresearch.org
 +.privacyguides.org
 +.pancakeswap.finance
@@ -3177,7 +3184,6 @@
 +.u9un.com
 +.uberproxy.net
 +.uc-japan.org
-+.uderzo.it
 +.udn.com
 +.udn.com.tw
 +.uforadio.com.tw
@@ -3225,6 +3231,7 @@
 +.uyghurpen.org
 +.uyghurstudies.org
 +.uyghurtribunal.com
++.vpsxb.net
 +.vilanet.me
 +.vewas.net
 +.v2.help
