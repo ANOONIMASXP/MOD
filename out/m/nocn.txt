@@ -840,6 +840,7 @@
 +.yahoo.com.tw
 +.yahoo.com.hk
 +.yahoo.com
++.996.icu
 +.ipfs.4everland.io
 +.91dasai.com
 +.i.111666.best
@@ -2220,6 +2221,7 @@
 +.makemymood.com
 +.martau.com
 +.marxist.net
++.marxists.org
 +.matainja.com
 +.matrix.org
 +.matters.town
@@ -2720,6 +2722,7 @@
 +.ruten.com.tw
 +.rutracker.net
 +.rutracker.org
++.solscan.io
 +.sina.com.hk
 +.swapspace.co
 +.storry.tv
@@ -2931,6 +2934,8 @@
 +.sydneytoday.com
 +.sylfoundation.org
 +.syncback.com
++.tap.io
++.taptap.io
 +.talkatone.com
 +.tanks.gg
 +.thehansindia.com
@@ -3231,6 +3236,7 @@
 +.uyghurpen.org
 +.uyghurstudies.org
 +.uyghurtribunal.com
++.vimeocdn.com
 +.vpsxb.net
 +.vilanet.me
 +.vewas.net
