@@ -904,6 +904,7 @@
 +.9bis.com
 +.9bis.net
 +.9news.com.au
++.asianfanfics.com
 +.amuletmc.com
 +.abplive.com
 +.cdn.arstechnica.net
@@ -1565,6 +1566,8 @@
 +.expressvpn.com
 +.eyevio.jp
 +.eyny.com
++.freegpt.tech
++.freegpt.es
 +.feedly.com
 +.fuckccp.xyz
 +.fuckccp.com
@@ -2934,6 +2937,7 @@
 +.sydneytoday.com
 +.sylfoundation.org
 +.syncback.com
++.trustwallet.com
 +.tap.io
 +.taptap.io
 +.talkatone.com
@@ -3517,6 +3521,7 @@
 +.yyjlymb.xyz
 +.yysub.net
 +.yzzk.com
++.z-library.ec
 +.z-library.sk
 +.z-lib.fm
 +.z-lib.gd
