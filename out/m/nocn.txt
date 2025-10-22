@@ -254,6 +254,7 @@
 +.btc.com
 +.r-pool.net
 +.w-pool.com
++.xn--u2u927b.com
 +.xn--11xs86f.icu
 +.xn--4gq171p.com
 +.xn--czq75pvv1aj5c.org
@@ -559,6 +560,7 @@
 +.auntology.fandom.com
 +.hongkong.fandom.com
 +.ftchinese.com
++.goog
 +.gle
 +.google
 +.doc.new
@@ -1172,7 +1174,6 @@
 +.bsky.social
 +.bt95.com
 +.btdig.com
-+.btdigg.org
 +.btguard.com
 +.btku.me
 +.btku.org
@@ -1392,6 +1393,7 @@
 +.ifan.cz.cc
 +.mike.cz.cc
 +.nic.cz.cc
++.dockerstatus.com
 +.deno.dev
 +.docs.deno.com
 +.doom9.org
@@ -3312,6 +3314,7 @@
 +.vrporn.com
 +.vtunnel.com
 +.vuku.cc
++.websdr.org
 +.wikipedia.com
 +.wxw.moe
 +.wxw.cat
