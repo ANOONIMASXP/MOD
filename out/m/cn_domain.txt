@@ -10746,6 +10746,7 @@
 +.aiqianxq.com
 +.aiqibaba.com
 +.aiqicha.baidu.com
++.aiqicha.cn
 +.aiqicha.com
 +.aiqiche.com
 +.aiqin.com
@@ -38774,6 +38775,7 @@
 +.getsurfboard.com
 +.gettopacoustic.com
 +.getu.fun
++.getui.cn
 +.getui.com
 +.getui.net
 +.getui.vip
@@ -47269,6 +47271,7 @@
 +.hitgk.com
 +.hitnology.com
 +.hitnslab.net
++.hitokoto.cn
 +.hitoor.com
 +.hitouch.com
 +.hitoupiao.com
@@ -53008,7 +53011,6 @@
 +.imliuyi.com
 +.imlizhi.com
 +.immeee.com
-+.immersivetranslate.com
 +.immfast.com
 +.immi520.com
 +.immiexpo.com
@@ -80056,6 +80058,7 @@
 +.quick-global.com
 +.quick-touch.com
 +.quickapi.net
++.quickapp.cn
 +.quickbass.com
 +.quickcan.com
 +.quickcep.com
@@ -92321,6 +92324,7 @@
 +.tckwj.com
 +.tcl-cctv.com
 +.tcl.com
++.tcl.com.cn
 +.tclai.top
 +.tclbusiness.com
 +.tclclouds.com
@@ -95224,6 +95228,7 @@
 +.ttxs123.net
 +.ttxs7.com
 +.ttxsapp.com
++.ttxsapp.com.cn
 +.ttxsonline.com
 +.ttxuanpai.com
 +.ttxx8888.com
@@ -97841,6 +97846,7 @@
 +.vnanf.com
 +.vnanke.com
 +.vndian.com
++.vnet.cn
 +.vnet.com
 +.vnet.mobi
 +.vniddlg.xyz
@@ -106278,6 +106284,7 @@
 +.xsa239.com
 +.xsappxz.com
 +.xsb120.com
++.xsbapp.cn
 +.xsbja.com
 +.xsbus.com
 +.xscbs.com
@@ -115139,6 +115146,7 @@
 +.zhuanhuanqi.com
 +.zhuanhuanqi.net
 +.zhuaniao.com
++.zhuaninc.com
 +.zhuankeapp.com
 +.zhuankebang.com
 +.zhuankezu.com
@@ -115147,6 +115155,7 @@
 +.zhuanmenmian.com
 +.zhuanpinyin.com
 +.zhuanqianba.net
++.zhuanspirit.cn
 +.zhuanspirit.com
 +.zhuanstatic.com
 +.zhuanwaifu.com

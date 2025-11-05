@@ -2939,6 +2939,7 @@
 +.sydneytoday.com
 +.sylfoundation.org
 +.syncback.com
++.temu.com
 +.trustwallet.com
 +.tap.io
 +.taptap.io
