@@ -1431,7 +1431,6 @@
 +.deepai.org
 +.decodet.co
 +.delcamp.net
-+.democrats.org
 +.demosisto.hk
 +.desc.se
 +.dessci.com
@@ -1568,6 +1567,7 @@
 +.expressvpn.com
 +.eyevio.jp
 +.eyny.com
++.flexclip.com
 +.freegpt.tech
 +.freegpt.es
 +.feedly.com
@@ -2475,6 +2475,7 @@
 +.oxfordscholarship.com
 +.ow.ly
 +.ozvoice.org
++.images.prismic.io
 +.api.palworldgame.com
 +.pewresearch.org
 +.privacyguides.org

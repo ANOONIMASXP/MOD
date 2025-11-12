@@ -12122,6 +12122,7 @@
 +.anzow.com
 +.ao-di.com
 +.ao-hua.com
++.ao-x.ac.cn
 +.aoao365.com
 +.aoaob.com
 +.aoasign.com
@@ -17178,6 +17179,7 @@
 +.boduhappiness.com
 +.bodyguard007.com
 +.boe.com
++.boe.com.cn
 +.boendejc.com
 +.boerchina.com
 +.boerzg.com
@@ -53190,7 +53192,7 @@
 +.infertilitybridge.com
 +.infimotion.com
 +.infineon-autoeco.com
-+.infineon.com
++.infineon.cn
 +.infini-ai.com
 +.infinisign.com
 +.infinitescript.com
@@ -79122,6 +79124,7 @@
 +.qiyujoy.com
 +.qiyukf.com
 +.qiyukf.net
++.qiyukf.net.cn
 +.qiyuniot.com
 +.qiyuns3.com
 +.qiyuntong.com
@@ -92158,7 +92161,6 @@
 +.taptap-api.com
 +.taptap.cn
 +.taptap.com
-+.taptap.io
 +.taptapcode.com
 +.taptapdada.com
 +.tapulsads.ru
@@ -93198,7 +93200,6 @@
 +.thzu.cc
 +.ti-node.com
 +.ti-solar.com
-+.ti.com
 +.ti.com.cn
 +.ti0s.com
 +.ti4la.icu
