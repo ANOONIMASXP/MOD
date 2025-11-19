@@ -522,6 +522,7 @@
 +.bloomberg.com
 +.bloomberg.de
 +.bloombergview.com
++.cloudflarestatus.com
 +.workers.dev
 +.one.one.one.one
 +.cloudflare-dns.com
@@ -906,6 +907,9 @@
 +.9bis.com
 +.9bis.net
 +.9news.com.au
++.ai.dev
++.adguard-vpn.com
++.aoxvpn.com
 +.asianfanfics.com
 +.amuletmc.com
 +.abplive.com
@@ -1046,6 +1050,7 @@
 +.axios.com
 +.axureformac.com
 +.azirevpn.com
++.bettergpt.chat
 +.bt4gprx.com
 +.bt4g.org
 +.betterhash.net
@@ -1191,6 +1196,10 @@
 +.bvpn.com
 +.bwh1.net
 +.bypasscensorship.org
++.cchostvps.xyz
++.canva.com
++.chatpdf.com
++.chat.com
 +.ctinets.com
 +.covenantswatch.org.tw
 +.cpu-monkey.com
@@ -1393,6 +1402,7 @@
 +.ifan.cz.cc
 +.mike.cz.cc
 +.nic.cz.cc
++.darmau.co
 +.dockerstatus.com
 +.deno.dev
 +.docs.deno.com
@@ -1567,6 +1577,9 @@
 +.expressvpn.com
 +.eyevio.jp
 +.eyny.com
++.hyperbeam.com
++.flowgpt.com
++.forefront.ai
 +.flexclip.com
 +.freegpt.tech
 +.freegpt.es
@@ -1807,6 +1820,8 @@
 +.guishan.org
 +.gumroad.com
 +.gunsamerica.com
++.hbomax.com
++.hicairo.com
 +.herominers.com
 +.hinet.net
 +.hindustantimes.com
@@ -2056,7 +2071,6 @@
 +.jgoodies.com
 +.jiangweiping.com
 +.jiaoyou8.com
-+.jichangtj.com
 +.hk.jiepang.com
 +.tw.jiepang.com
 +.jingpin.org
@@ -2125,6 +2139,10 @@
 +.kxsw.life
 +.kzaobao.com
 +.kzeng.info
++.library-access.sk
++.linux.do
++.lmarena.ai
++.lexica.art
 +.luckymobile.ca
 +.ludepress.com
 +.lingualeo.com
@@ -2200,6 +2218,9 @@
 +.lvv2.com
 +.lzjscript.com
 +.lzmtnews.org
++.mij.rip
++.mji.rip
++.mjj.rip
 +.mcusercontent.com
 +.metamask.io
 +.missav.ws
@@ -2424,6 +2445,7 @@
 +.nyaa.si
 +.nybooks.com
 +.nypost.com
++.files.oaiusercontent.com
 +.octocaptcha.com
 +.oojj.de
 +.onevps.com
@@ -2651,6 +2673,8 @@
 +.qstatus.com
 +.qtrac.eu
 +.quitccp.org
++.rustdesk.com
++.rentry.co
 +.radmin-vpn.com
 +.rule34video.com
 +.r10s.jp
@@ -2728,6 +2752,8 @@
 +.ruten.com.tw
 +.rutracker.net
 +.rutracker.org
++.sora.com
++.lt.sntp.uk
 +.solscan.io
 +.sina.com.hk
 +.swapspace.co
@@ -2940,6 +2966,7 @@
 +.sydneytoday.com
 +.sylfoundation.org
 +.syncback.com
++.terobox.com
 +.temu.com
 +.trustwallet.com
 +.tap.io

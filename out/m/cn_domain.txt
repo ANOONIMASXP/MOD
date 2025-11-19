@@ -12099,6 +12099,7 @@
 +.anyview.net
 +.anyway.fm
 +.anyway.red
++.anywlan.com
 +.anywood.com
 +.anyxz.com
 +.anzerclub.com
@@ -27588,6 +27589,7 @@
 +.cztv.cc
 +.cztv.com
 +.cztv.tv
++.cztvcdn.com
 +.cztvcloud.com
 +.cztzkg.com
 +.czur.com
@@ -38558,6 +38560,7 @@
 +.geekmaker.com
 +.geekman.vip
 +.geeknev.com
++.geekpark
 +.geekpark.net
 +.geekpwn.org
 +.geeksblog.cc
@@ -48297,7 +48300,6 @@
 +.hongdou.com
 +.hongdoufm.com
 +.hongdoulive.com
-+.hongdunwang.com.cn
 +.hongen.com
 +.hongfasi.net
 +.hongfengye.com
@@ -93730,7 +93732,6 @@
 +.tinyyuan.com
 +.tipaipai.com
 +.tipask.com
-+.tipdim.org
 +.tipdm.com
 +.tipdm.org
 +.tipray.com
@@ -98701,6 +98702,7 @@
 +.wanhumotor.com
 +.wanhunet.com
 +.wanimal1983.org
++.wanji.net.cn
 +.wanjia.org
 +.wanjiacc.com
 +.wanjiachupin.com
