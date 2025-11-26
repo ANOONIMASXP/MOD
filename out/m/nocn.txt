@@ -254,6 +254,7 @@
 +.btc.com
 +.r-pool.net
 +.w-pool.com
++.xn--9iqy04a7fi01l.com
 +.xn--u2u927b.com
 +.xn--11xs86f.icu
 +.xn--4gq171p.com
@@ -1704,6 +1705,7 @@
 +.futuremessage.org
 +.fw.cm
 +.fxcm-chinese.com
++.greatfirevpn.com
 +.garudalinux.org
 +.about.gitlab.com
 +.gitlab.net
@@ -1733,6 +1735,7 @@
 +.gclubs.com
 +.gcmasia.com
 +.geek-art.net
++.gekikame.com
 +.generated.photos
 +.genius.com
 +.geph.io
@@ -2351,6 +2354,7 @@
 +.myparagliding.com
 +.mypopescu.com
 +.myspacecdn.com
++.namu.wiki
 +.nirsoft.net
 +.naver.com
 +.maven.neoforged.net
@@ -2497,6 +2501,7 @@
 +.oxfordscholarship.com
 +.ow.ly
 +.ozvoice.org
++.picsart.com
 +.images.prismic.io
 +.api.palworldgame.com
 +.pewresearch.org
@@ -3343,6 +3348,7 @@
 +.vrporn.com
 +.vtunnel.com
 +.vuku.cc
++.wikiunblocked.org
 +.websdr.org
 +.wikipedia.com
 +.wxw.moe
