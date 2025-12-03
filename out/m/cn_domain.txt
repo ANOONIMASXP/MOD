@@ -11264,6 +11264,7 @@
 +.aliliying.com
 +.aliloan.com
 +.aliluya.com
++.alimama.cn
 +.alimama.com
 +.alimebot.com
 +.alimei.com
@@ -25900,6 +25901,7 @@
 +.cqhjyzl.com
 +.cqhkcdns.com
 +.cqhkyy.com
++.cqhlw.cn
 +.cqhma.com
 +.cqhnbsb.com
 +.cqhncd.com
@@ -26149,6 +26151,7 @@
 +.cqshyzx.com
 +.cqsifang.com
 +.cqsj365.com
++.cqsjb.com
 +.cqsjbc.com
 +.cqsjky.com
 +.cqsjnzx.com
@@ -61629,6 +61632,7 @@
 +.kuaishangkf.com
 +.kuaishebao.com
 +.kuaishiedu.com
++.kuaishou.cn
 +.kuaishou.com
 +.kuaishouapp.com
 +.kuaishouapp.net
@@ -68472,6 +68476,7 @@
 +.metaoptronics.com
 +.metaplanet3023.com
 +.metasecurities.com
++.metaso.cn
 +.metastonecorp.com
 +.metastudioxr.com
 +.metastudy.vip
@@ -70916,6 +70921,7 @@
 +.myqee.com
 +.myqqdd.com
 +.myqqjd.com
++.myquark.cn
 +.myr9.com
 +.myra2.com
 +.myrb.net
@@ -94842,6 +94848,7 @@
 +.tpykyy.com
 +.tpyzq.com
 +.tpzlj.com
++.tq121.com.cn
 +.tqads.com
 +.tqcj.com
 +.tqcp.net
@@ -99280,6 +99287,7 @@
 +.wearosbox.com
 +.weartrends.com
 +.weasing.com
++.weather.com.cn
 +.weatherat.com
 +.weathercn.com
 +.weatherdt.com
@@ -101319,6 +101327,7 @@
 +.wmqt.net
 +.wmqzyyy.com
 +.wms100.com
++.wmsj.cn
 +.wmsjyun.com
 +.wmslz.com
 +.wmsub.com
@@ -103525,6 +103534,7 @@
 +.xfycard.com
 +.xfyousheng.com
 +.xfypaper.com
++.xfyun.cn
 +.xfyun.com
 +.xfzc.com
 +.xfzhsf.com
@@ -103641,6 +103651,7 @@
 +.xhkt.tv
 +.xhlaowu.com
 +.xhlcsl.com
++.xhlsgs.com
 +.xhma.com
 +.xhmedia.com
 +.xhmwxy.com
@@ -105175,6 +105186,7 @@
 +.xinwenku.com
 +.xinwenlianbo.tv
 +.xinwo.com
++.xinwuji.com
 +.xinwulan.com
 +.xinxe.com
 +.xinxi28.com
@@ -110368,6 +110380,7 @@
 +.yokacdn.com
 +.yokagames.com
 +.yokaimg.com
++.yokaverse.com
 +.yokechina.com
 +.yokmob.com
 +.yokong.com
@@ -118221,5 +118234,3 @@ p6-juejin.byteimg.com
 p7-juejin.byteimg.com
 p8-juejin.byteimg.com
 p9-juejin.byteimg.com
-bbs.ztedevices.com
-www.ztedevices.com
