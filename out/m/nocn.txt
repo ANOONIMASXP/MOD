@@ -2052,6 +2052,7 @@
 +.ixquick.com
 +.iyouport.com
 +.iyouport.org
++.jhelab.org
 +.justmysockscn.com
 +.justmysocks.net
 +.jav321.com
@@ -2678,6 +2679,8 @@
 +.qstatus.com
 +.qtrac.eu
 +.quitccp.org
++.radiojar.com
++.radio.co
 +.rustdesk.com
 +.rentry.co
 +.radmin-vpn.com

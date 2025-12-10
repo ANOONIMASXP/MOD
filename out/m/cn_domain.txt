@@ -7394,7 +7394,6 @@
 +.75ll.com
 +.75n474.com
 +.75pk.com
-+.75team.com
 +.75ww.com
 +.75xn.com
 +.76065.com
@@ -15988,6 +15987,7 @@
 +.biolab.xyz
 +.bioligo.com
 +.biolihe.com
++.biomart.cn
 +.biome-expo.com
 +.biomedicchina.com
 +.biominhai.com
@@ -31889,6 +31889,7 @@
 +.dxwei.com
 +.dxwfgg.com
 +.dxxxfl.com
++.dxy.cn
 +.dxy.com
 +.dxy.me
 +.dxy.net
@@ -45268,6 +45269,7 @@
 +.hapingapp.com
 +.hapipixia.com
 +.hapiyixia.com
++.hapjs.org
 +.haplat.net
 +.happi123.com
 +.happigo.com
@@ -67190,6 +67192,7 @@
 +.maketion.com
 +.makeweiyuan.com
 +.making.link
++.mala.cn
 +.mala123.com
 +.malabeibei.com
 +.malagis.com
@@ -102950,6 +102953,7 @@
 +.x-newedu.com
 +.x-peng.com
 +.x-ray.work
++.x-station.cn
 +.x-storm.com
 +.x-tetris.com
 +.x-vsion.com
@@ -106431,6 +106435,7 @@
 +.xrzww.com
 +.xs-ir.com
 +.xs-servers.com
++.xs.cn
 +.xs058.com
 +.xs3cnc.com
 +.xs52.com
@@ -118193,8 +118198,15 @@
 +.zzzyyy.com
 +.zzzzaaaa.com
 +.zzzzzz.me
-cueme-api.quark.cn
-ai.zhaomi.cn
+p1-juejin.byteimg.com
+p2-juejin.byteimg.com
+p3-juejin.byteimg.com
+p4-juejin.byteimg.com
+p5-juejin.byteimg.com
+p6-juejin.byteimg.com
+p7-juejin.byteimg.com
+p8-juejin.byteimg.com
+p9-juejin.byteimg.com
 manga.bilibili.com
 p3-novel.byteimg.com
 p6-novel.byteimg.com
@@ -118205,6 +118217,8 @@ moocs.unipus.cn
 opencourse.pku.edu.cn
 study.163.com
 www.libvideo.com
+cueme-api.quark.cn
+ai.zhaomi.cn
 ntp.aliyun.com
 ntp1.aliyun.com
 ntp2.aliyun.com
@@ -118225,12 +118239,3 @@ ntp5.tencent.com
 geetest.datasink.sensorsdata.cn
 hellofontpreview.oss-cn-beijing.aliyuncs.com
 hellowebfonts.oss-cn-beijing.aliyuncs.com
-p1-juejin.byteimg.com
-p2-juejin.byteimg.com
-p3-juejin.byteimg.com
-p4-juejin.byteimg.com
-p5-juejin.byteimg.com
-p6-juejin.byteimg.com
-p7-juejin.byteimg.com
-p8-juejin.byteimg.com
-p9-juejin.byteimg.com
