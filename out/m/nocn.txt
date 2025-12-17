@@ -908,6 +908,7 @@
 +.9bis.com
 +.9bis.net
 +.9news.com.au
++.anuneko.com
 +.ai.dev
 +.adguard-vpn.com
 +.aoxvpn.com
@@ -1051,6 +1052,7 @@
 +.axios.com
 +.axureformac.com
 +.azirevpn.com
++.bitbaby.com
 +.bettergpt.chat
 +.bt4gprx.com
 +.bt4g.org
@@ -1938,6 +1940,7 @@
 +.hyperrate.com
 +.hypothes.is
 +.ebook.hyread.com.tw
++.idcflare.com
 +.interseclab.org
 +.ipify.org
 +.itiger.com
@@ -2502,6 +2505,7 @@
 +.oxfordscholarship.com
 +.ow.ly
 +.ozvoice.org
++.podwise.ai
 +.picsart.com
 +.images.prismic.io
 +.api.palworldgame.com
