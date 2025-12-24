@@ -2358,6 +2358,7 @@
 +.myparagliding.com
 +.mypopescu.com
 +.myspacecdn.com
++.nephobox.com
 +.namu.wiki
 +.nirsoft.net
 +.naver.com
@@ -2505,6 +2506,8 @@
 +.oxfordscholarship.com
 +.ow.ly
 +.ozvoice.org
++.static.pocketcasts.com
++.partnerstack.xyz
 +.podwise.ai
 +.picsart.com
 +.images.prismic.io
