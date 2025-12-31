@@ -562,6 +562,7 @@
 +.auntology.fandom.com
 +.hongkong.fandom.com
 +.ftchinese.com
++.issues.chromium.org 
 +.goog
 +.gle
 +.google
@@ -599,7 +600,6 @@
 +.chromecast.com
 +.chromeexperiments.com
 +.chromestatus.com
-+.chromium.org
 +.cloudfunctions.net
 +.crbug.com
 +.creativelab5.com
@@ -908,6 +908,7 @@
 +.9bis.com
 +.9bis.net
 +.9news.com.au
++.aljazeera.net
 +.anuneko.com
 +.ai.dev
 +.adguard-vpn.com
@@ -1407,8 +1408,6 @@
 +.nic.cz.cc
 +.darmau.co
 +.dockerstatus.com
-+.deno.dev
-+.docs.deno.com
 +.doom9.org
 +.dweb.link
 +.docker.io
@@ -1707,6 +1706,7 @@
 +.futuremessage.org
 +.fw.cm
 +.fxcm-chinese.com
++.gfwbao.com
 +.greatfirevpn.com
 +.garudalinux.org
 +.about.gitlab.com
@@ -2146,6 +2146,7 @@
 +.kxsw.life
 +.kzaobao.com
 +.kzeng.info
++.lovart.ai
 +.library-access.sk
 +.linux.do
 +.lmarena.ai
@@ -2767,6 +2768,7 @@
 +.ruten.com.tw
 +.rutracker.net
 +.rutracker.org
++.steamladder.com
 +.sora.com
 +.lt.sntp.uk
 +.solscan.io
