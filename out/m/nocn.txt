@@ -562,7 +562,8 @@
 +.auntology.fandom.com
 +.hongkong.fandom.com
 +.ftchinese.com
-+.issues.chromium.org 
++.ai.studio
++.chromium.org 
 +.goog
 +.gle
 +.google
@@ -683,8 +684,6 @@
 +.savethedate.foo
 +.schema.org
 +.shattered.io
-+.sheets.new
-+.slides.new
 +.snapseed.com
 +.synergyse.com
 +.teachparentstech.org
@@ -708,7 +707,6 @@
 +.withgoogle.com
 +.withyoutube.com
 +.x.company
-+.xn--ngstr-lra8j.com
 +.youtu.be
 +.youtube.com
 +.youtube-nocookie.com
@@ -1012,8 +1010,6 @@
 +.archive.fo
 +.archive.vn
 +.archive.is
-+.archive.is
-+.archive.li
 +.archive.li
 +.archive.md
 +.archive.org
@@ -1130,7 +1126,6 @@
 +.blackvpn.com
 +.blinkx.com
 +.blip.tv
-+.blockcast.it
 +.blockcn.com
 +.blockedbyhk.com
 +.blockless.com
@@ -1267,7 +1262,6 @@
 +.cdpeu.org
 +.cdpuk.co.uk
 +.cdpweb.org
-+.cdpweb.org
 +.cdpwu.org
 +.cdw.com
 +.cecc.gov
@@ -1366,7 +1360,6 @@
 +.communitychoicecu.com
 +.comparitech.com
 +.compileheart.com
-+.conoha.jp
 +.cool18.com
 +.coolaler.com
 +.coolder.com
@@ -1406,6 +1399,7 @@
 +.ifan.cz.cc
 +.mike.cz.cc
 +.nic.cz.cc
++.dazn.com
 +.darmau.co
 +.dockerstatus.com
 +.doom9.org
@@ -1432,7 +1426,6 @@
 +.danke4china.net
 +.darrenliuwei.com
 +.dashlane.com
-+.daum.net
 +.daxa.cn
 +.db.tt
 +.dbgjd.com
@@ -2008,7 +2001,6 @@
 +.inkbunny.net
 +.inkui.com
 +.inmediahk.net
-+.inmediahk.net
 +.inoreader.com
 +.inote.tw
 +.insecam.org
@@ -2218,7 +2210,6 @@
 +.lsm.org
 +.lsmchinese.org
 +.lsmkorean.org
-+.ltn.com.tw
 +.luckydesigner.space
 +.lupm.org
 +.lushstories.com
@@ -2438,7 +2429,6 @@
 +.nordvpn.com
 +.nos.nl
 +.notepad-plus-plus.org
-+.now.com
 +.nownews.com
 +.npa.go.jp
 +.nrk.no
@@ -2455,6 +2445,8 @@
 +.nyaa.si
 +.nybooks.com
 +.nypost.com
++.ooni.io
++.ooni.org
 +.files.oaiusercontent.com
 +.octocaptcha.com
 +.oojj.de
@@ -2507,6 +2499,7 @@
 +.oxfordscholarship.com
 +.ow.ly
 +.ozvoice.org
++.pdst.fm
 +.static.pocketcasts.com
 +.partnerstack.xyz
 +.podwise.ai
@@ -2578,6 +2571,23 @@
 +.ping.fm
 +.pinimg.com
 +.pinoy-n.com
++.pinterest.com
++.pinterest.com.mx
++.pinterest.com.au
++.pinterest.co.uk
++.pinterest.cl
++.pinterest.ca
++.pinterest.at
++.pinterest.de
++.pinterest.es
++.pinterest.fr
++.pinterest.ie
++.pinterest.it
++.pinterest.jp
++.pinterest.nz
++.pinterest.ph
++.pinterest.pt
++.pinterest.se
 +.pixeldrain.com
 +.pixelqi.com
 +.css.pixnet.in
@@ -2652,7 +2662,6 @@
 +.privoxy.org
 +.procopytips.com
 +.project-syndicate.org
-+.proton.me
 +.prosiben.de
 +.proxomitron.info
 +.proxpn.com
@@ -2666,7 +2675,6 @@
 +.main-ecnpaper-economist.content.pugpig.com
 +.pullfolio.com
 +.pureconcepts.net
-+.pureinsight.org
 +.purepdf.com
 +.purevpn.com
 +.pursuestar.com
@@ -2786,7 +2794,6 @@
 +.south-plus.net
 +.silvergatebank.com
 +.share-videos.se
-+.ssrshare.us
 +.cdn.statically.io
 +.slides.com
 +.suno.com
@@ -3000,7 +3007,6 @@
 +.tou.tv
 +.tinyurl.com
 +.textnow.com
-+.textnow.me
 +.token.im
 +.tokenlon.im
 +.tardigrade.io
@@ -3235,6 +3241,7 @@
 +.blog.expofutures.com
 +.contests.twilio.com
 +.typora.io
++.up.audio
 +.udomain.hk
 +.upbit.com
 +.demo.unlock-music.dev
@@ -3481,6 +3488,7 @@
 +.wujieliulan.com
 +.wuw.red
 +.wwitv.com
++.xcancel.com
 +.www.xicons.org
 +.x.ai
 +.xt.com
@@ -3545,7 +3553,6 @@
 +.yhcw.net
 +.yibaochina.com
 +.yidio.com
-+.yigeni.com
 +.s.yimg.com
 +.yipub.com
 +.yizhihongxing.com
