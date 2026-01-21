@@ -919,6 +919,9 @@
 +.aljazeera.com
 +.akinator.com
 +.annas-archive.org
++.annas-archive.in
++.annas-archive.li
++.annas-archive.pm
 +.av01.tv
 +.acg.rip
 +.annas-archive.se
@@ -1702,7 +1705,7 @@
 +.gfwbao.com
 +.greatfirevpn.com
 +.garudalinux.org
-+.gitlab.com
++.about.gitlab.com
 +.gitlab.net
 +.getsession.org
 +.gdaily.org
@@ -3192,8 +3195,11 @@
 +.tumblr.com
 +.lecloud.net
 +.slutmoonbeam.com
-+.forum.tvb.com
++.mytvsuper.com
++.tvbanywhere.com
++.akamai.tvb.com
 +.inews-api.tvb.com
++.news.tvbs.com.tw
 +.tvboxnow.com
 +.tvunetworks.com
 +.twapperkeeper.com
@@ -3367,6 +3373,7 @@
 +.vrporn.com
 +.vtunnel.com
 +.vuku.cc
++.weights.com
 +.wikiunblocked.org
 +.websdr.org
 +.wikipedia.com
@@ -3528,6 +3535,7 @@
 +.xsden.info
 +.xxx.com
 +.xxxx.com.au
++.youmind.com
 +.yangzhi.org
 +.storage.yandex.net
 +.y2mate.com
