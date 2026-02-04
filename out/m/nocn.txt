@@ -198,6 +198,7 @@
 +.login.target.com
 +.rcam.target.com
 +.technews.tw
++.freeterabox.com
 +.terabox.com
 +.thinkgeek.com
 +.thebodyshop-usa.com
@@ -524,6 +525,7 @@
 +.bloomberg.de
 +.bloombergview.com
 +.cloudflarestatus.com
++.pages.dev
 +.workers.dev
 +.one.one.one.one
 +.cloudflare-dns.com
@@ -765,6 +767,7 @@
 +.twitter.jp
 +.vine.co
 +.x.com
++.sef.org.tw
 +.moj.gov.tw
 +.gov.taipei
 +.archives.gov.tw
@@ -1052,6 +1055,7 @@
 +.axios.com
 +.axureformac.com
 +.azirevpn.com
++.help.byspotify.com
 +.bitbaby.com
 +.bettergpt.chat
 +.bt4gprx.com
@@ -1822,6 +1826,7 @@
 +.guishan.org
 +.gumroad.com
 +.gunsamerica.com
++.www.hoyolab.com
 +.hbomax.com
 +.hicairo.com
 +.herominers.com
@@ -2221,6 +2226,7 @@
 +.lvv2.com
 +.lzjscript.com
 +.lzmtnews.org
++.dcs-spotify.megaphone.fm
 +.mij.rip
 +.mji.rip
 +.mjj.rip
@@ -2780,6 +2786,7 @@
 +.ruten.com.tw
 +.rutracker.net
 +.rutracker.org
++.simianx.ai
 +.steamladder.com
 +.sora.com
 +.lt.sntp.uk
@@ -2994,6 +3001,8 @@
 +.sydneytoday.com
 +.sylfoundation.org
 +.syncback.com
++.tails.net
++.bbc.pdn.tritondigital.com
 +.terobox.com
 +.temu.com
 +.trustwallet.com
@@ -3536,6 +3545,7 @@
 +.xsden.info
 +.xxx.com
 +.xxxx.com.au
++.yfsp.tv
 +.youmind.com
 +.yangzhi.org
 +.storage.yandex.net
