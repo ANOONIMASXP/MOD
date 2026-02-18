@@ -33713,6 +33713,7 @@
 +.eueui.com
 +.eufc.org
 +.euforums.com
++.eufycn.com
 +.eui.cc
 +.euibe.com
 +.euino.com
@@ -79953,7 +79954,6 @@
 +.redmart.com
 +.redmou.com
 +.rednetdns.com
-+.rednotecdn.com
 +.redocn.com
 +.redodopower.com
 +.redoop.com
