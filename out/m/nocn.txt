@@ -870,7 +870,7 @@
 +.googleweblight.com
 +.googlezip.net
 +.gstatic.com
-+.gvt1.com]
++.gvt1.com
 +.gvt3.com
 +.gwtproject.org
 +.html5rocks.com
@@ -1086,6 +1086,7 @@
 +.9bis.com
 +.9bis.net
 +.9news.com.au
++.akile.io
 +.aljazeera.net
 +.anuneko.com
 +.ai.dev
@@ -1380,6 +1381,7 @@
 +.bvpn.com
 +.bwh1.net
 +.bypasscensorship.org
++.www.clashverge.dev
 +.clementine-player.org
 +.backend-v2.crixet.com
 +.cchostvps.xyz
@@ -1758,6 +1760,7 @@
 +.expressvpn.com
 +.eyevio.jp
 +.eyny.com
++.freedom.gov
 +.hyperbeam.com
 +.flowgpt.com
 +.forefront.ai
@@ -2404,6 +2407,8 @@
 +.lvv2.com
 +.lzjscript.com
 +.lzmtnews.org
++.meee.com.tw
++.mosavi.io
 +.dcs-spotify.megaphone.fm
 +.mij.rip
 +.mji.rip
@@ -2550,6 +2555,7 @@
 +.myparagliding.com
 +.mypopescu.com
 +.myspacecdn.com
++.assets.nxtrace.org
 +.nephobox.com
 +.namu.wiki
 +.nirsoft.net
@@ -2645,6 +2651,7 @@
 +.nyaa.si
 +.nybooks.com
 +.nypost.com
++.opencritic.com
 +.ooni.io
 +.ooni.org
 +.files.oaiusercontent.com
@@ -3194,6 +3201,7 @@
 +.sydneytoday.com
 +.sylfoundation.org
 +.syncback.com
++.tor.eff.org
 +.tails.net
 +.bbc.pdn.tritondigital.com
 +.terobox.com
@@ -3448,6 +3456,7 @@
 +.blog.expofutures.com
 +.contests.twilio.com
 +.typora.io
++.uniswap.org
 +.up.audio
 +.udomain.hk
 +.upbit.com
