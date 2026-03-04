@@ -1086,6 +1086,8 @@
 +.9bis.com
 +.9bis.net
 +.9news.com.au
++.arweave.org
++.arena.ai
 +.akile.io
 +.aljazeera.net
 +.anuneko.com
@@ -1381,6 +1383,7 @@
 +.bvpn.com
 +.bwh1.net
 +.bypasscensorship.org
++.claude.com
 +.www.clashverge.dev
 +.clementine-player.org
 +.backend-v2.crixet.com
@@ -1690,6 +1693,7 @@
 +.dwnews.net
 +.dynawebinc.com
 +.dysfz.cc
++.economist.com
 +.e621.net
 +.edx-cdn.org
 +.everipedia.org
@@ -2407,6 +2411,7 @@
 +.lvv2.com
 +.lzjscript.com
 +.lzmtnews.org
++.manus.im
 +.meee.com.tw
 +.mosavi.io
 +.dcs-spotify.megaphone.fm
@@ -3583,6 +3588,7 @@
 +.vrporn.com
 +.vtunnel.com
 +.vuku.cc
++.wispbyte.com
 +.walletconnect.org
 +.wallzhihu.com
 +.wikis.tw
@@ -3813,7 +3819,6 @@
 +.z-lib.io
 +.z-lib.org
 +.zalmos.com
-+.zaobao.com.sg
 +.zdnet.com.tw
 +.zello.com
 +.zenmate.com
