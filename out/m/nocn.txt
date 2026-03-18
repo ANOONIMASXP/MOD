@@ -1088,6 +1088,7 @@
 +.9bis.com
 +.9bis.net
 +.9news.com.au
++.aave.com
 +.arweave.org
 +.arena.ai
 +.akile.io
@@ -3719,6 +3720,7 @@
 +.wujieliulan.com
 +.wuw.red
 +.wwitv.com
++.xdaforums.com
 +.xcancel.com
 +.www.xicons.org
 +.x.ai
