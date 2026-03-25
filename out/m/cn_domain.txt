@@ -12951,6 +12951,7 @@
 +.anhuisjx.com
 +.anhuisuya.com
 +.anhuiwine.com
++.anhuiyun.com
 +.anhuizk.com
 +.ani-sh.com
 +.aniccw.net
@@ -34935,13 +34936,11 @@
 +.esoua.com
 +.esound.vip
 +.esouou.com
-+.esp8266.com
 +.espeedpost.com
 +.esplus.club
 +.espnlol.com
 +.esports-console.com
 +.esportsreg.com
-+.espressif.com
 +.esr.com
 +.essaystar.com
 +.essca.com
@@ -105007,7 +105006,6 @@
 +.xiaomidns.com
 +.xiaomidns.net
 +.xiaomiev.com
-+.xiaomiflash.com
 +.xiaomiinc.com
 +.xiaomiinc.net
 +.xiaomimimo.com
@@ -118697,6 +118695,7 @@
 +.zzzyyy.com
 +.zzzzaaaa.com
 +.zzzzzz.me
+ctdsb.clouddiffuse.xyz
 ntp.aliyun.com
 ntp.tencent.com
 ntp1.aliyun.com
