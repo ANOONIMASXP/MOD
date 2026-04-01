@@ -261,6 +261,7 @@
 +.btc.com
 +.r-pool.net
 +.w-pool.com
++.xn--kcrv3utim32hx9f6qe.com
 +.xn--1jqvh729avzfcy2d8ummib.com
 +.xn--9iqy04a7fi01l.com
 +.xn--u2u927b.com
@@ -2917,7 +2918,6 @@
 +.qstatus.com
 +.qtrac.eu
 +.quitccp.org
-+.s.rmimg.com
 +.radiojar.com
 +.radio.co
 +.rustdesk.com
