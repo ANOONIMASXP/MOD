@@ -181,7 +181,6 @@
 +.primevideo.com
 +.proyectoclubes.com
 +.pure18.com
-+.pytorch.org
 +.qq.co.za
 +.r18.com
 +.ramcity.com.au
@@ -631,6 +630,7 @@
 +.duck.com
 +.feedburner.com
 +.firebaseio.com
++.crashlytics.com
 +.g.co
 +.gcr.io
 +.get.app
@@ -1090,6 +1090,7 @@
 +.9bis.com
 +.9bis.net
 +.9news.com.au
++.archive-it.org
 +.aave.com
 +.arweave.org
 +.arena.ai
@@ -1597,6 +1598,9 @@
 +.ifan.cz.cc
 +.mike.cz.cc
 +.nic.cz.cc
++.dns.sb
++.doh.sb
++.dot.sb
 +.download.dappcdn.com
 +.dazn.com
 +.darmau.co
@@ -2419,6 +2423,7 @@
 +.lvv2.com
 +.lzjscript.com
 +.lzmtnews.org
++.mistral.ai
 +.manus.im
 +.meee.com.tw
 +.mosavi.io
@@ -2463,7 +2468,6 @@
 +.mediachinese.com
 +.mediafreakcity.com
 +.medium.com
-+.meetup.com
 +.mega.co.nz
 +.mega.io
 +.mega.nz
@@ -2664,6 +2668,7 @@
 +.nyaa.si
 +.nybooks.com
 +.nypost.com
++.osmand.net
 +.oklink.com
 +.okcoin.com
 +.opencritic.com
