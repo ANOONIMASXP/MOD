@@ -515,14 +515,7 @@
 +.mastodon.online
 +.payments-jp.amazon.com
 +.amazon.co.jp
-+.s3.eu-central-1.amazonaws.com
-+.s3-eu-central-1.amazonaws.com
-+.s3.us-east-1.amazonaws.com
-+.s3-ap-northeast-2.amazonaws.com
-+.s3.ap-northeast-2.amazonaws.com
 +.s3-ap-northeast-1.amazonaws.com
-+.s3-ap-southeast-1.amazonaws.com
-+.s3-ap-southeast-2.amazonaws.com
 +.video.aol.com
 +.search.aol.com
 +.avmo.pw
@@ -1090,6 +1083,9 @@
 +.9bis.com
 +.9bis.net
 +.9news.com.au
++.annas-archive.gd
++.annas-archive.gl
++.annas-archive.pk
 +.archive-it.org
 +.aave.com
 +.arweave.org
@@ -1107,13 +1103,8 @@
 +.aomedia.org
 +.aljazeera.com
 +.akinator.com
-+.annas-archive.org
-+.annas-archive.in
-+.annas-archive.li
-+.annas-archive.pm
 +.av01.tv
 +.acg.rip
-+.annas-archive.se
 +.a-normal-day.com
 +.abc.net.au
 +.abebooks.co.uk
@@ -2075,8 +2066,6 @@
 +.himalayan-foundation.org
 +.himemix.com
 +.hk01.com
-+.hkacg.com
-+.hkacg.net
 +.hkbookcity.com
 +.hkchronicles.com
 +.hkcnews.com
@@ -2559,7 +2548,6 @@
 +.mullvad.net
 +.muzi.com
 +.muzi.net
-+.mx981.com
 +.my-private-network.co.uk
 +.myaudiocast.com
 +.bbs.mychat.to
@@ -2668,6 +2656,7 @@
 +.nyaa.si
 +.nybooks.com
 +.nypost.com
++.openart.ai
 +.osmand.net
 +.oklink.com
 +.okcoin.com
@@ -3276,11 +3265,9 @@
 +.tbcollege.org
 +.tbsec.org
 +.tbsn.org
-+.techspot.com
 +.techviz.net
 +.teck.in
 +.tehrantimes.com
-+.telegraph.co.uk
 +.tenor.com
 +.tenzinpalmo.com
 +.tew.org
@@ -3477,6 +3464,7 @@
 +.blog.expofutures.com
 +.contests.twilio.com
 +.typora.io
++.sbti.unun.dev
 +.uniswap.org
 +.up.audio
 +.udomain.hk
@@ -3603,7 +3591,6 @@
 +.vrchat.com
 +.vrporn.com
 +.vtunnel.com
-+.vuku.cc
 +.wispbyte.com
 +.walletconnect.org
 +.wallzhihu.com
@@ -3755,7 +3742,6 @@
 +.xiaxiaoqiang.net
 +.xinjiangpolicefiles.org
 +.xinmiao.com.hk
-+.xjp.cc
 +.xjtravelguide.com
 +.xml-training-guide.com
 +.xnxx.com
