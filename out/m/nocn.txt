@@ -272,6 +272,7 @@
 +.xn--p8j9a0d9c9a.xn--q9jyb4c
 +.xn--9pr62r24a.com
 +.xn--ngstr-lra8j.com
++.music.amazon.com
 +.cdn-images.mailchimp.com
 +.abebooks.com
 +.9cache.com
@@ -395,10 +396,6 @@
 +.uraban.me
 +.vrsmash.com
 +.vultryhw.com
-+.scache.vzw.com
-+.scache1.vzw.com
-+.scache2.vzw.com
-+.ss7.vzw.com
 +.ssr.tools
 +.steemit.com
 +.taiwanjustice.net
@@ -1082,6 +1079,7 @@
 +.9bis.com
 +.9bis.net
 +.9news.com.au
++.acg.mn
 +.asiasociety.org
 +.avistaz.to
 +.annas-archive.gd
@@ -1233,6 +1231,8 @@
 +.axios.com
 +.axureformac.com
 +.azirevpn.com
++.boomplay.com
++.bleepingcomputer.com
 +.bellingcat.com
 +.bittorrent.com
 +.help.byspotify.com
@@ -1382,6 +1382,8 @@
 +.bvpn.com
 +.bwh1.net
 +.bypasscensorship.org
++.ctinsider.com
++.cnbc.com
 +.cia.gov
 +.claude.com
 +.www.clashverge.dev
@@ -1697,6 +1699,7 @@
 +.dwnews.net
 +.dynawebinc.com
 +.dysfz.cc
++.edigest.hk
 +.app.element.io
 +.economist.com
 +.e621.net
@@ -2016,6 +2019,7 @@
 +.guishan.org
 +.gumroad.com
 +.gunsamerica.com
++.hive.blog
 +.v2.hysteria.network
 +.hembed.com
 +.www.hoyolab.com
@@ -2132,6 +2136,7 @@
 +.hyperrate.com
 +.hypothes.is
 +.ebook.hyread.com.tw
++.infosec.exchange
 +.investing.com
 +.idcflare.com
 +.interseclab.org
@@ -2290,6 +2295,7 @@
 +.justmysocks1.net
 +.juziyue.com
 +.cdn.jwplayer.com
++.kathmandupost.com
 +.kingkong.com.tw
 +.kanald.com.tr
 +.kpkuang.org
@@ -2336,6 +2342,8 @@
 +.kxsw.life
 +.kzaobao.com
 +.kzeng.info
++.libgen.is
++.lemonde.fr
 +.lantern.io
 +.lovart.ai
 +.library-access.sk
@@ -2416,6 +2424,8 @@
 +.lvv2.com
 +.lzjscript.com
 +.lzmtnews.org
++.mjj.today
++.mediamatters.org
 +.mistral.ai
 +.manus.im
 +.meee.com.tw
@@ -2564,6 +2574,10 @@
 +.myparagliding.com
 +.mypopescu.com
 +.myspacecdn.com
++.nfscofficial.com
++.nfsc.press
++.newstimes.com
++.newshub.co.nz
 +.assets.nxtrace.org
 +.nephobox.com
 +.namu.wiki
@@ -2660,6 +2674,7 @@
 +.nyaa.si
 +.nybooks.com
 +.nypost.com
++.overdrive.com
 +.openart.ai
 +.osmand.net
 +.oklink.com
@@ -2719,6 +2734,7 @@
 +.oxfordscholarship.com
 +.ow.ly
 +.ozvoice.org
++.penguin.com.au
 +.prompthero.com
 +.pdst.fm
 +.static.pocketcasts.com
@@ -2916,6 +2932,7 @@
 +.qstatus.com
 +.qtrac.eu
 +.quitccp.org
++.rts.ch
 +.rawstory.com
 +.recordedfuture.com
 +.roblox.com
@@ -3000,6 +3017,8 @@
 +.ruten.com.tw
 +.rutracker.net
 +.rutracker.org
++.sinchew.com.my
++.softether.co.jp
 +.shitjournal.org
 +.spacex.com
 +.stephaniered.com
@@ -3218,6 +3237,10 @@
 +.sydneytoday.com
 +.sylfoundation.org
 +.syncback.com
++.tvdy1.com
++.tgstat.com
++.the-sun.com
++.theweek.com
 +.techbang.com
 +.thinkchina.sg
 +.tor.eff.org
@@ -3530,6 +3553,7 @@
 +.uyghurpen.org
 +.uyghurstudies.org
 +.uyghurtribunal.com
++.vox.com
 +.vimeocdn.com
 +.vpsxb.net
 +.vilanet.me
@@ -3601,6 +3625,7 @@
 +.vrchat.com
 +.vrporn.com
 +.vtunnel.com
++.worldjournal.com
 +.wispbyte.com
 +.walletconnect.org
 +.wallzhihu.com
