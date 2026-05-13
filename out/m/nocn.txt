@@ -1382,6 +1382,7 @@
 +.bvpn.com
 +.bwh1.net
 +.bypasscensorship.org
++.chonglangtv.org
 +.ctinsider.com
 +.cnbc.com
 +.cia.gov
@@ -1593,6 +1594,8 @@
 +.ifan.cz.cc
 +.mike.cz.cc
 +.nic.cz.cc
++.data18.com
++.dt18.com
 +.dns.sb
 +.doh.sb
 +.dot.sb
@@ -2674,6 +2677,7 @@
 +.nyaa.si
 +.nybooks.com
 +.nypost.com
++.umap.openstreetmap.fr
 +.overdrive.com
 +.openart.ai
 +.osmand.net
