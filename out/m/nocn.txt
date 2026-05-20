@@ -1905,6 +1905,8 @@
 +.futuremessage.org
 +.fw.cm
 +.fxcm-chinese.com
++.f95zone.to
++.g.ai
 +.gmgn.ai
 +.grokipedia.com
 +.gfwbao.com
@@ -2427,6 +2429,7 @@
 +.lvv2.com
 +.lzjscript.com
 +.lzmtnews.org
++.leonardo.ai
 +.mjj.today
 +.mediamatters.org
 +.mistral.ai
@@ -3021,6 +3024,9 @@
 +.ruten.com.tw
 +.rutracker.net
 +.rutracker.org
++.raphael.app
++.rule34.us
++.sider.ai
 +.sinchew.com.my
 +.softether.co.jp
 +.shitjournal.org
@@ -3241,6 +3247,7 @@
 +.sydneytoday.com
 +.sylfoundation.org
 +.syncback.com
++.sotwe.com
 +.tvdy1.com
 +.tgstat.com
 +.the-sun.com
@@ -3848,6 +3855,7 @@
 +.yyjlymb.xyz
 +.yysub.net
 +.yzzk.com
++.zhangzhehan.net
 +.zaochenbao.com
 +.z-library.ec
 +.z-library.sk
