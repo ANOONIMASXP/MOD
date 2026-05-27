@@ -1015,6 +1015,7 @@
 +.yahoo.com.tw
 +.yahoo.com.hk
 +.yahoo.com
++.24hbook.com
 +.996.icu
 +.ipfs.4everland.io
 +.91dasai.com
@@ -1678,6 +1679,7 @@
 +.doublethinklab.org
 +.dougscripts.com
 +.doujincafe.com
++.dowjones.io
 +.dpp.org.tw
 +.dpr.info
 +.dragonsprings.org
@@ -2430,6 +2432,7 @@
 +.lzjscript.com
 +.lzmtnews.org
 +.leonardo.ai
++.mas.to
 +.mjj.today
 +.mediamatters.org
 +.mistral.ai
@@ -2557,6 +2560,7 @@
 +.morningsun.org
 +.movements.org
 +.moviefap.com
++.mozilla.ai
 +.www.moztw.org
 +.mpettis.com
 +.mpfinance.com
@@ -2580,6 +2584,7 @@
 +.myparagliding.com
 +.mypopescu.com
 +.myspacecdn.com
++.neodb.social 
 +.nfscofficial.com
 +.nfsc.press
 +.newstimes.com
