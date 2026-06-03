@@ -331,7 +331,6 @@
 +.line-scdn.net
 +.i.lithium.com
 +.cloud.mail.ru
-+.cdn-images.mailchimp.com
 +.mastodon.cloud
 +.mastodon.host
 +.mastodon.social
@@ -1204,6 +1203,7 @@
 +.areca-backup.org
 +.arethusa.su
 +.arlingtoncemetery.mil
++.as.mr
 +.asacp.org
 +.asiaharvest.org
 +.asianage.com
@@ -1269,6 +1269,7 @@
 +.bandcamp.com
 +.bandwagonhost.com
 +.bangkokpost.com
++.bangumi.tv
 +.bangyoulater.com
 +.bannedbook.org
 +.barnabu.co.uk
@@ -1297,6 +1298,7 @@
 +.betvictor.com
 +.bfnn.org
 +.bfsh.hk
++.bgm.tv
 +.bgvpn.com
 +.biblesforamerica.org
 +.vpl.bibliocommons.com
@@ -1385,7 +1387,6 @@
 +.bypasscensorship.org
 +.chonglangtv.org
 +.ctinsider.com
-+.cnbc.com
 +.cia.gov
 +.claude.com
 +.www.clashverge.dev
@@ -1481,6 +1482,7 @@
 +.chenpokongvip.com
 +.cherrysave.com
 +.chhongbi.org
++.chii.in
 +.china-week.com
 +.china101.com
 +.china18.org
@@ -1942,6 +1944,7 @@
 +.gcmasia.com
 +.geek-art.net
 +.gekikame.com
++.gencraft.com
 +.generated.photos
 +.genius.com
 +.geph.io
@@ -2068,6 +2071,7 @@
 +.heyuedi.com
 +.hiccears.com
 +.hidden-advent.org
++.hiddify.com
 +.hide.me
 +.hideipvpn.com
 +.hideman.net
@@ -3165,7 +3169,6 @@
 +.socks-proxy.net
 +.sockslist.net
 +.softether.org
-+.softether-download.com
 +.cdn.softlayer.net
 +.sogclub.com
 +.sohcradio.com
@@ -3573,6 +3576,7 @@
 +.vimeocdn.com
 +.vpsxb.net
 +.vilanet.me
++.veed.io
 +.vewas.net
 +.v2.help
 +.vocaroo.com
@@ -3834,7 +3838,6 @@
 +.yespornplease.com
 +.yhcw.net
 +.yibaochina.com
-+.yidio.com
 +.s.yimg.com
 +.yipub.com
 +.yizhihongxing.com
