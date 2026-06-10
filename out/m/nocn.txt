@@ -524,7 +524,6 @@
 +.bloomberg.de
 +.bloombergview.com
 +.cloudflarestatus.com
-+.pages.dev
 +.workers.dev
 +.one.one.one.one
 +.cloudflare-dns.com
@@ -3249,6 +3248,7 @@
 +.surfeasy.com
 +.surfshark.com
 +.surrenderat20.net
++.suyingtv.com
 +.swissinfo.ch
 +.swissvpn.net
 +.switchvpn.net
@@ -3761,6 +3761,7 @@
 +.xijie.wordpress.com
 +.ifreechina.wordpress.com
 +.wp.com
++.wplace.live
 +.wowporn.com
 +.wowgirls.com
 +.wpoforum.com
