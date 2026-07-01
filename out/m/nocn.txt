@@ -65,6 +65,7 @@
 +.eesti.ee
 +.esurance.com
 +.expekt.com
++.expressnews.com
 +.extmatrix.com
 +.fakku.net
 +.fastpic.ru
@@ -1061,6 +1062,9 @@
 +.teco-hk.org
 +.teco-mo.org
 +.kinmen.org.tw
++.spaceforce.mil
++.airuniversity.af.edu
++.supremecourt.gov
 +.americorps.gov
 +.dma.mil
 +.jpl.nasa.gov
@@ -1658,6 +1662,7 @@
 +.crackle.com
 +.crazyshit.com
 +.crchina.org
++.creader.com
 +.creaders.net
 +.cristyli.com
 +.croxyproxy.com
@@ -1999,6 +2004,8 @@
 +.fw.cm
 +.fxcm-chinese.com
 +.f95zone.to
++.gate.com
++.guangming.com.my
 +.g.ai
 +.gmgn.ai
 +.grokipedia.com
@@ -2118,6 +2125,7 @@
 +.guishan.org
 +.gumroad.com
 +.gunsamerica.com
++.hkong.hk
 +.hive.blog
 +.v2.hysteria.network
 +.hembed.com
@@ -2394,6 +2402,7 @@
 +.justmysocks1.net
 +.juziyue.com
 +.cdn.jwplayer.com
++.kfor.com
 +.kathmandupost.com
 +.kingkong.com.tw
 +.kanald.com.tr
@@ -2524,6 +2533,7 @@
 +.lzjscript.com
 +.lzmtnews.org
 +.leonardo.ai
++.mhwindow.org
 +.mas.to
 +.mjj.today
 +.mediamatters.org
@@ -2838,6 +2848,8 @@
 +.oxfordscholarship.com
 +.ow.ly
 +.ozvoice.org
++.perma.cc
++.pcgamesn.com
 +.penguin.com.au
 +.prompthero.com
 +.pdst.fm
@@ -3036,6 +3048,7 @@
 +.qstatus.com
 +.qtrac.eu
 +.quitccp.org
++.restofworld.org
 +.rts.ch
 +.rawstory.com
 +.recordedfuture.com
@@ -3346,6 +3359,9 @@
 +.sylfoundation.org
 +.syncback.com
 +.sotwe.com
++.theintercept.com
++.trtworld.com
++.twstalker.com
 +.tvdy1.com
 +.tgstat.com
 +.the-sun.com
@@ -3496,6 +3512,7 @@
 +.tibettruth.com
 +.tibetwrites.org
 +.tigervpn.com
++.time.com
 +.timesnownews.com
 +.timtales.com
 +.blog.tiney.com
@@ -3735,6 +3752,7 @@
 +.vrchat.com
 +.vrporn.com
 +.vtunnel.com
++.washingtontimes.com
 +.worldjournal.com
 +.wispbyte.com
 +.walletconnect.org
@@ -3863,6 +3881,7 @@
 +.wujieliulan.com
 +.wuw.red
 +.wwitv.com
++.xuan.com.my
 +.xdaforums.com
 +.xcancel.com
 +.www.xicons.org
