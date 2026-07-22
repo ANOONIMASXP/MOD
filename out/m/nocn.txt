@@ -1104,6 +1104,7 @@
 +.yahoo.com.tw
 +.yahoo.com.hk
 +.yahoo.com
++.18comic.vip
 +.18mh.net
 +.24hbook.com
 +.996.icu
@@ -1478,6 +1479,7 @@
 +.bvpn.com
 +.bwh1.net
 +.bypasscensorship.org
++.clashyun.com
 +.chonglangtv.org
 +.ctinsider.com
 +.cia.gov
@@ -3136,6 +3138,7 @@
 +.rutracker.org
 +.raphael.app
 +.rule34.us
++.sysub.com
 +.sider.ai
 +.sinchew.com.my
 +.softether.co.jp
@@ -3390,6 +3393,7 @@
 +.textnow.com
 +.token.im
 +.tokenlon.im
++.tokenplus.app
 +.tardigrade.io
 +.torrentgalaxy.to
 +.tomp3.cc
@@ -3974,6 +3978,7 @@
 +.yyjlymb.xyz
 +.yysub.net
 +.yzzk.com
++.zenmux.ai
 +.zhangzhehan.net
 +.zaochenbao.com
 +.z-library.ec
