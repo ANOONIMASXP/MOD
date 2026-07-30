@@ -1,10 +1,8 @@
 {
-        "version": 2,
-        "rules": [
-                {
-                        "domain": [],
-                        "domain_suffix": [],
-                        "domain_regex": []
-                }
-        ]
+	"version": 2,
+	"rules": [
+		{
+			"domain_suffix": []
+		}
+	]
 }
