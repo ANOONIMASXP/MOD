@@ -30,12 +30,12 @@ for cmd in curl jq awk sort grep head; do
 	command -v "$cmd" >/dev/null 2>&1 || die "缺少依赖命令: $cmd"
 done
 if [ ! -f "$RULESET_COMPILER" ]; then
-	log "缺少 $RULESET_COMPILER，从 build 分支获取"
+	log "缺少 $RULESET_COMPILER，从 data 分支获取"
 	mkdir -p bin
 	compiler_ok=0
 	for cbase in \
-		"https://raw.githubusercontent.com/ANOONIMASXP/MOD/build/bin" \
-		"https://ghfast.top/https://raw.githubusercontent.com/ANOONIMASXP/MOD/build/bin"; do
+		"https://raw.githubusercontent.com/ANOONIMASXP/MOD/data/bin" \
+		"https://ghfast.top/https://raw.githubusercontent.com/ANOONIMASXP/MOD/data/bin"; do
 		if curl -fsSL --retry 2 --retry-delay 2 --retry-all-errors \
 			--connect-timeout 15 --max-time 300 --speed-limit 1024 --speed-time 30 \
 			-o "$RULESET_COMPILER" "$cbase/ruleset-compiler"; then
