@@ -1,0 +1,59 @@
+name: UPDATE
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 12 * * *'
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set execute permission
+      run: chmod +x ./mod.sh
+
+    - name: Fetch compiler from build branch
+      run: |
+        git fetch --depth=1 origin build || true
+        if git rev-parse --verify origin/build >/dev/null 2>&1; then
+          mkdir -p bin
+          git show origin/build:bin/ruleset-compiler > bin/ruleset-compiler
+          chmod +x bin/ruleset-compiler
+        fi
+
+    - name: Run script
+      run: ./mod.sh
+
+    - name: Publish out+bin to build branch (single commit)
+      run: |
+        git config user.email "action@github.com"
+        git config user.name "GitHub Action"
+        git fetch --depth=1 origin build || true
+        INDEX="$PWD/.build_index"
+        rm -f "$INDEX"
+        GIT_INDEX_FILE="$INDEX" git add -f out bin/ruleset-compiler
+        TREE=$(GIT_INDEX_FILE="$INDEX" git write-tree)
+        if git rev-parse --verify origin/build >/dev/null 2>&1; then
+          OLD_TREE=$(git rev-parse 'origin/build^{tree}')
+          if [ "$TREE" = "$OLD_TREE" ]; then
+            echo "No changes to publish"
+            exit 0
+          fi
+        fi
+        COMMIT=$(git commit-tree "$TREE" -m "UPDATE")
+        git push --force origin "$COMMIT:build"
+
+    - name: Delete Workflow Runs
+      uses: Mattraks/delete-workflow-runs@v2
+      with:
+        token: ${{ github.token }}
+        repository: ${{ github.repository }}
+        retain_days: 1
+        keep_minimum_runs: 1
