@@ -34,8 +34,8 @@ if [ ! -f "$RULESET_COMPILER" ]; then
 	mkdir -p bin
 	compiler_ok=0
 	for cbase in \
-		"https://raw.githubusercontent.com/ANOONIMASXP/MOD/data/bin" \
-		"https://ghfast.top/https://raw.githubusercontent.com/ANOONIMASXP/MOD/data/bin"; do
+		"https://raw.githubusercontent.com/ANOONIMASXP/mod/data/bin" \
+		"https://ghfast.top/https://raw.githubusercontent.com/ANOONIMASXP/mod/data/bin"; do
 		if curl -fsSL --retry 2 --retry-delay 2 --retry-all-errors \
 			--connect-timeout 15 --max-time 300 --speed-limit 1024 --speed-time 30 \
 			-o "$RULESET_COMPILER" "$cbase/ruleset-compiler"; then
