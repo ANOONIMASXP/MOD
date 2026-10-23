@@ -40,14 +40,7 @@ jobs:
         rm -f "$INDEX"
         GIT_INDEX_FILE="$INDEX" git add -f out bin/ruleset-compiler
         TREE=$(GIT_INDEX_FILE="$INDEX" git write-tree)
-        if git rev-parse --verify origin/data >/dev/null 2>&1; then
-          OLD_TREE=$(git rev-parse 'origin/data^{tree}')
-          if [ "$TREE" = "$OLD_TREE" ]; then
-            echo "No changes to publish"
-            exit 0
-          fi
-        fi
-        COMMIT=$(git commit-tree "$TREE" -m "UPDATE")
+        COMMIT=$(git commit-tree "$TREE" -m "update")
         git push --force origin "$COMMIT:data"
 
     - name: Delete Workflow Runs
